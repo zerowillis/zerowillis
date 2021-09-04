@@ -1,26 +1,24 @@
 <div align=center>
     
-![Willis](https://user-images.githubusercontent.com/85594230/132092695-e7727276-2782-42dd-a42c-24d927d85088.mp4) 
-
+![Willis](https://user-images.githubusercontent.com/85594230/132092929-f1049bbc-32ff-4819-b1d7-737eae3dd08f.gif)
 </div>
 
-## About Me
+## About Me🚀
 
 ```TypeScript
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
-    public static firstName = 'Lucky'
-    public static lastName = 'Yambem'
-    public static username = 'ShinNouzen'
-    public static aliases = ['Shin']
+    public static firstName = 'Willis'
+    
+    public static username = 'Zero_willis'
+    public static aliases = ['zero']
     public static skills = [
-        'TypeScript', 
-        'JavaScript', 
-        'NodeJS',
+        'JavaScript',
         'HTML',
-        'CSS',
-        'C++'
+        'Python'
+        
+     
 
     ], 
     public static info = {
@@ -28,35 +26,27 @@ export default class ME implements IUser {
         country: 'India',
         org: 'None',
         likes: [
-            'Chitoge Kirisaki',
-            'JavaScript',                                    
-            'NodeJS',
-            'TypeScript,
-            'HTML',
-            'CSS',
-            'C++',
+            'Mikasa',               
+            'Game',
             'Anime'
         
         ],
         reach: [
             {
                 name: contact.Discord,
-                username: 'Shin Nouzen#4457'
+                username: 'lily_cat#8806'
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/917005014836?text=Hmm'
+                url: 'https://wa.me/+917085981580?text=contact'
             },
             {
                 name: contact.Instagram
-                username: '_lucky_yam_'
+                username: 'Zero_willis'
             },
             {
                 name: contact.Facebook
-                username: 'Lucky Yambem'
+                username: 'willis Ackerman'
             },
             {   name: contact.Twitter
-                username: 'Shin Nouzen (@NouzenShin)'
-            }
         ]
-    }

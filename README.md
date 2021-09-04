@@ -1,11 +1,10 @@
 <div align=center>
     
-![nouzen-shinei](https://user-images.githubusercontent.com/85594230/131375305-420762b3-900c-486c-8e4a-9686c6b4eb15.gif)
-### Hmm...
+![nouzen-shinei](https://user-images.githubusercontent.com/85594230/132092695-e7727276-2782-42dd-a42c-24d927d85088.mp4) 
 
 </div>
 
-## About Me🚀 
+## About Me
 
 ```TypeScript
 import { contact, IUser } from './github'

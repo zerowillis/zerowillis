@@ -3,7 +3,7 @@
 ![Willis](https://user-images.githubusercontent.com/85594230/132092929-f1049bbc-32ff-4819-b1d7-737eae3dd08f.gif)
 </div>
 
-## About Me🚀
+## About Me🫶🏻
 
 ```TypeScript
 import { contact, IUser } from './github'
@@ -22,19 +22,19 @@ export default class ME implements IUser {
 
     ], 
     public static info = {
-        age: 15,
+        age: 16,
         country: 'India',
         org: 'None',
         likes: [
-            'Mikasa',               
-            'Game',
-            'Anime'
+            'I love a good boy who isnt gay for me',
+            'games??',
+            'no anime'
         
         ],
         reach: [
             {
                 name: contact.Discord,
-                username: 'lily_cat#8806'
+                username: 'Ténshi#6443'
             },
             {
                 name: contact.WhatsApp,
@@ -42,11 +42,11 @@ export default class ME implements IUser {
             },
             {
                 name: contact.Instagram
-                username: 'Zero_willis'
+                username: 'willis_rajkumar'
             },
             {
                 name: contact.Facebook
-                username: 'willis Ackerman'
+                username: 'willis_rajkumar'
             },
             {   name: contact.Twitter
         ]

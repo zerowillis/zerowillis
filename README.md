@@ -22,7 +22,7 @@ export default class ME implements IUser {
 
     ], 
     public static info = {
-        age: 16,
+        age: 18,
         country: 'India',
         org: 'None',
         likes: [
@@ -34,7 +34,7 @@ export default class ME implements IUser {
         reach: [
             {
                 name: contact.Discord,
-                username: 'Ténshi#6443'
+                username: 'williokk'
             },
             {
                 name: contact.WhatsApp,

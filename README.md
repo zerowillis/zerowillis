@@ -11,12 +11,13 @@ import { contact, IUser } from './github'
 export default class ME implements IUser {
     public static firstName = 'Willis'
     
-    public static username = 'Zero_willis'
+    public static username = 'Willis rajkumar'
     public static aliases = ['zero']
     public static skills = [
         'JavaScript',
         'HTML',
         'Python'
+         'Css'
         
      
 
@@ -26,9 +27,9 @@ export default class ME implements IUser {
         country: 'India',
         org: 'None',
         likes: [
-            'I love a good boy who isnt gay for me',
-            'games??',
-            'no anime'
+            'I love Hanni.',
+            'Hanni',
+            'Hanni'
         
         ],
         reach: [
@@ -42,11 +43,10 @@ export default class ME implements IUser {
             },
             {
                 name: contact.Instagram
-                username: 'willis_rajkumar'
+                username: 'diee_ule'
             },
             {
                 name: contact.Facebook
                 username: 'willis_rajkumar'
-            },
-            {   name: contact.Twitter
+            }
         ]
